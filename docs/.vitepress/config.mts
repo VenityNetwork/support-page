@@ -1,7 +1,7 @@
 import {defineConfig, LocaleConfig, UserConfig} from 'vitepress'
 
 const languages: LocaleConfig = {
-  root: {
+  en: {
     label: "English",
     lang: "en"
   },
