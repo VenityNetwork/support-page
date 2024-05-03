@@ -13,6 +13,11 @@ const languages: LocaleConfig = {
 
 const baseCfg: UserConfig = {
   title: "Venity Network Support",
+  themeConfig: {
+    editLink: {
+      pattern: 'https://github.com/VenityNetwork/support-page/edit/master/docs/:path'
+    }
+  }
 };
 
 const sidebarItems: SidebarItemWrapper[] = [
