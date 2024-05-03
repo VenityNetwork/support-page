@@ -2,5 +2,3 @@
 /node_modules/
 /docs/.vitepress/cache
 /docs/.vitepress/dist/*
-!/docs/.vitepress/dist/_headers
-!/docs/.vitepress/dist/_redirects
