@@ -1,4 +1,4 @@
-# Frequently Asked Questions
+# Markdown Examples
 
 ## Syntax Highlighting
 
