@@ -13,6 +13,7 @@ const languages: LocaleConfig = {
 
 const baseCfg: UserConfig = {
   title: "Venity Network Support",
+  description: "Venity Network Support Page",
   themeConfig: {
     editLink: {
       pattern: 'https://github.com/VenityNetwork/support-page/edit/master/docs/:path'
