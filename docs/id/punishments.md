@@ -50,14 +50,25 @@ Untuk melaporkan pemain yang curang, **Wajib** untuk memberikan foto atau screen
 Hukuman mute dapat berupa:
 
 1. Advertising **(3 Hari)**
+    - Mempromosikan server discord atau server Minecraft lain
+    - Mempromosikan akun sosial media secara berlebihan
+    - Mempromosikan hack client atau serupa (Masuk ke kategori ban: Advertising Illegal Modifications)
 2. Toxicity **(3 Hari)**
+    - Berkata kasar seperti: EZ, L, Noob, Trash, dan serupa
 3. Excessive Badwords **(3 Hari)**
+    - Menggunakan kata kasar secara berlebihan
 4. Discrimination **(7 Hari)**
+    - Diskriminasi terhadap orang, etnis, kelompok, ras, warna kulit, agama, kepercayaan, jenis kelamin, kondisi medis, atau kecacatan mereka
 5. Spamming **(3 Hari)**
+    - Chat Spam, Chat Flood, dan lainnya yang serupa
 6. Harassment **(7 Hari)**
+    - Pelecehan, penghinaan, ataupun pelecehan seksual dan lainnya yang serupa
 7. Sending Dangerous Links **(7 Hari)**
+    - Mengirim link yang membahayakan (Scam, Phising, virus, dan lainnya)
 8. Sending Inappropriate Links **(7 Hari)**
+    - Mengirim link yang tidak pantas
 9. Inappropriate Topics **(7 Hari)**
+    - Membicarakan topik atau hal-hal yang tidak pantas
 
 ::: tip
 Untuk melaporkan pelanggaran chat, **Wajib** untuk memberikan foto atau screenshot yang lengkap dan jelas. Dan laporkan pemain yang melanggar ke [Discord Venity](https://venitymc.com/discord)
