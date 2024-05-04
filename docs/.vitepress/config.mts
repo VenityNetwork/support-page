@@ -104,13 +104,6 @@ const sidebarItems: SidebarItemWrapper[] = [
           en: "Privacy Policy"
         },
         link: "/privacy-policy"
-      },
-      {
-        text: {
-          id: "Hukuman",
-          en: "Punishments"
-        },
-        link: "/punishments"
       }
     ]
   },

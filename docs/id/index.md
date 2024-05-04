@@ -18,8 +18,5 @@ hero:
     - theme: alt
       text: Sistem Guild
       link: /id/guilds-system
-    - theme: alt
-      text: Hukuman
-      link: /id/punishments
 ---
 
