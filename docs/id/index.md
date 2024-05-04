@@ -15,5 +15,8 @@ hero:
     - theme: alt
       text: Cara Vote Server
       link: /id/voting-for-the-server
+    - theme: alt
+      text: Sistem Guild
+      link: /id/guilds-system
 ---
 
