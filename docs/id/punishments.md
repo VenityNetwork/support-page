@@ -12,7 +12,7 @@ Keputusan bisa saja berubah kedepannya!
 
 Hukuman ban berlaku selama 21 hari. Jika anda mendapati hukuman ban selama 30 hari atau lebih, mungkin anda terkena ban sistem atau hukuman lainnya. Alasan ban dapat berupa:
 
-1. FLy hack
+1. Fly hack
 2. ESP
 3. Reach
 4. Insta Break/Nuker

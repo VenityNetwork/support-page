@@ -12,7 +12,7 @@ Decisions may change in the future!
 
 A ban penalty is valid for 21 days. If you receive a ban for 30 days or more, you may be subject to a system ban or other penalty. Reasons for a ban can be:
 
-1. FLy hack
+1. Fly hack
 2. ESP
 3. Reach
 4. Insta Break/Nuker
