@@ -1,4 +1,5 @@
-import {DefaultTheme, defineConfig, LocaleConfig, UserConfig} from 'vitepress'
+import {defineConfig, LocaleConfig, UserConfig} from 'vitepress'
+import markdownItKatex from 'markdown-it-katex'
 
 const languages: LocaleConfig = {
   en: {
@@ -18,7 +19,12 @@ const baseCfg: UserConfig = {
     editLink: {
       pattern: 'https://github.com/VenityNetwork/support-page/edit/master/docs/:path'
     }
-  }
+  },
+  markdown: {
+    config: (md) => {
+      md.use(markdownItKatex);
+    },
+  },
 };
 
 const perLangCfg: any = {
@@ -64,6 +70,21 @@ const sidebarItems: SidebarItemWrapper[] = [
           en: "Voting for the Server"
         },
         link: "/voting-for-the-server"
+      }
+    ]
+  },
+  {
+    title: {
+      id: "Informasi in-game",
+      en: "In-game Information"
+    },
+    items: [
+      {
+        text: {
+          id: "Sistem Guild",
+          en: "Guilds System"
+        },
+        link: "/guilds-system"
       }
     ]
   },

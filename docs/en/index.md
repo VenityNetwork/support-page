@@ -15,5 +15,8 @@ hero:
     - theme: alt
       text: How to Vote for the Server
       link: /en/voting-for-the-server
+    - theme: alt
+      text: Guilds System
+      link: /en/guilds-system
 ---
 
