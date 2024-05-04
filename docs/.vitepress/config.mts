@@ -17,6 +17,9 @@ const baseCfg: UserConfig = {
   themeConfig: {
     editLink: {
       pattern: 'https://github.com/VenityNetwork/support-page/edit/master/docs/:path'
+    },
+    search: {
+      provider: 'local'
     }
   }
 };
