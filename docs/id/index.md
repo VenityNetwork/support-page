@@ -9,5 +9,8 @@ hero:
     - theme: alt
       text: Ketentuan Layanan
       link: /id/terms-of-service
+    - theme: alt
+      text: Cara Vote Server
+      link: /id/voting-for-the-server
 ---
 

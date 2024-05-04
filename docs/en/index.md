@@ -8,6 +8,9 @@ hero:
   actions:
     - theme: alt
       text: Terms of Service
-      link: /id/terms-of-service
+      link: /en/terms-of-service
+    - theme: alt
+      text: How to Vote for the Server
+      link: /en/voting-for-the-server
 ---
 

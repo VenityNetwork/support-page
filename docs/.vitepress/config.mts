@@ -53,6 +53,21 @@ const perLangCfg: any = {
 const sidebarItems: SidebarItemWrapper[] = [
   {
     title: {
+      id: "Tutorial",
+      en: "Tutorial"
+    },
+    items: [
+      {
+        text: {
+          id: "Vote Server",
+          en: "Voting for the Server"
+        },
+        link: "/voting-for-the-server"
+      }
+    ]
+  },
+  {
+    title: {
       id: "Kebijakan",
       en: "Policies"
     },
