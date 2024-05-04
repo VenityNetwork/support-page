@@ -28,14 +28,24 @@ Hukuman ban berlaku selama 21 hari. Jika anda mendapati hukuman ban selama 30 ha
 Selain hukuman ban karena menggunakan hack, ada hukuman lainnya yang memiliki beragam durasi seperti:
 
 1. Teaming **(2 Hari)**
+    - Pemain yang melakukan kerjasama untuk melawan pemain lain (Termasuk di mode Doubles dan Squads (Crossteaming))
 2. Scamming **(30 Hari)**
+    - Melakukan penipuan terhadap pemain lain, misalnya dengan menjanjikan barang atau keuntungan palsu dalam pertukaran atau transaksi
 3. Bug Abusing **(7 Hari)**
+    - Pemain yang menggunakan bug untuk menguntungkan dirinya sendiri (Bug keluar arena, Bug tembus block, Bug tempat sembunyi, dan bug lainnya)
+    - Memanfaatkan kelemahan atau bug dalam permainan untuk keuntungan pribadi, termasuk keuntungan dalam hal permainan
 4. Illegal Resource Pack **(7 Hari)**
+    - Texture pack yang dilarang digunakan dan dapat menguntungkan diri sendiri seperti: X-ray, ESP, dan texture illegal lainnya
 5. Disallowed Gamertag **(30 Hari)**
+    - Penggunaan nama pengguna yang melanggar aturan yang telah ditentukan, seperti nama yang mengandung kata-kata kasar, penghinaan, atau konten yang tidak pantas
 6. Disallowed Skin **(1 Hari)**
+    - Menggunakan skin karakter yang melanggar aturan, misalnya yang mengandung konten yang tidak pantas atau vulgar
 7. Disallowed nickname (khusus pengguna: /nick) **(1 Hari)**
+    - Menggunakan nama tidak pantas atau sensitif
 8. Advertising Illegal Modifications **(30 Hari)**
+    - Mempromosikan atau mengiklankan modifikasi permainan yang ilegal atau melanggar aturan yang ditetapkan
 9. Impersonating a Staff Member **(7 Hari)**
+    - Menyamar sebagai anggota staf atau tim administrasi permainan dengan maksud untuk menipu, mengganggu, atau memperoleh keuntungan yang tidak adil
 
 ::: info
 Khusus Ban Evading, durasi hukuman akan disesuaikan oleh sisa durasi pada salah satu akun yang terkena ban (Berlaku untuk semua alt)
