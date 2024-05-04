@@ -1,4 +1,4 @@
-import {defineConfig, LocaleConfig, UserConfig} from 'vitepress'
+import {DefaultTheme, defineConfig, LocaleConfig, UserConfig} from 'vitepress'
 
 const languages: LocaleConfig = {
   en: {
@@ -20,7 +20,52 @@ const baseCfg: UserConfig = {
   }
 };
 
+const perLangCfg: any = {
+  id: {
+    editLink: {
+      text: "Sunting halaman ini",
+      pattern: "https://github.com/VenityNetwork/support-page/edit/master/docs/:path"
+    },
+    docFooter: {
+      prev: "Sebelumnya",
+      next: "Selanjutnya"
+    },
+    outline: {
+      label: "Halaman iniz"
+    },
+    lastUpdated: {
+      text: "Diperbarui",
+      formatOptions: {
+        dateStyle: 'short',
+        timeStyle: 'medium'
+      }
+    },
+
+    langMenuLabel: "Ganti bahasa",
+    returnToTopLabel: "Kembali ke atas",
+    darkModeSwitchLabel: "Tema",
+    lightModeSwitchTitle: "Ubah ke mode terang",
+    darkModeSwitchTitle: "Ubah ke mode gelap",
+  },
+  en: {} // use defaults
+}
+
 const sidebarItems: SidebarItemWrapper[] = [
+  {
+    title: {
+      id: "Kebijakan",
+      en: "Policies"
+    },
+    items: [
+      {
+        text: {
+          id: "Ketentuan Layanan",
+          en: "Terms of Service"
+        },
+        link: "/terms-of-service"
+      }
+    ]
+  },
   {
     title: {
       id: "Untuk Penulis",
@@ -95,7 +140,7 @@ const buildConfig = () => {
   Object.keys(languages).forEach((langKey) => {
     const langId = languages[langKey].lang;
     ret.locales[langKey] = languages[langKey];
-    ret.locales[langKey].themeConfig = {};
+    ret.locales[langKey].themeConfig = perLangCfg[langKey];
     ret.locales[langKey].themeConfig.sidebar = [];
     ret.locales[langKey].themeConfig.nav = [];
 
