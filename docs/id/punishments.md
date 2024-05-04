@@ -55,20 +55,28 @@ Hukuman mute dapat berupa:
     - Mempromosikan hack client atau serupa (Masuk ke kategori ban: Advertising Illegal Modifications)
 2. Toxicity **(3 Hari)**
     - Berkata kasar seperti: EZ, L, Noob, Trash, dan serupa
+    - Menggunakan kata-kata atau frasa yang merendahkan atau mengejek pemain lain secara tidak pantas (meskipun dalam bahasa lain)
 3. Excessive Badwords **(3 Hari)**
     - Menggunakan kata kasar secara berlebihan
+    - Menggunakan bahasa kasar atau kata-kata yang tidak pantas secara berulang-ulang dalam percakapan
 4. Discrimination **(7 Hari)**
     - Diskriminasi terhadap orang, etnis, kelompok, ras, warna kulit, agama, kepercayaan, jenis kelamin, kondisi medis, atau kecacatan mereka
+    - Menghina atau membeda-bedakan individu atau kelompok berdasarkan karakteristik yang dilindungi oleh hukum
 5. Spamming **(3 Hari)**
     - Chat Spam, Chat Flood, dan lainnya yang serupa
+    - Mengirim pesan berulang-ulang secara cepat dan tidak relevan yang mengganggu percakapan
 6. Harassment **(7 Hari)**
     - Pelecehan, penghinaan, ataupun pelecehan seksual dan lainnya yang serupa
+    - Melakukan tindakan yang sengaja menakut-nakuti, mengganggu, atau merendahkan pemain lain secara pribadi
 7. Sending Dangerous Links **(7 Hari)**
     - Mengirim link yang membahayakan (Scam, Phising, virus, dan lainnya)
+    - Membagikan atau mengirimkan link yang dapat membahayakan keamanan atau privasi pengguna lain
 8. Sending Inappropriate Links **(7 Hari)**
     - Mengirim link yang tidak pantas
+    - Membagikan atau mengirimkan tautan ke konten yang tidak pantas atau melanggar peraturan
 9. Inappropriate Topics **(7 Hari)**
     - Membicarakan topik atau hal-hal yang tidak pantas
+    - Membahas atau memperdebatkan topik yang tidak sesuai dengan suasana atau tujuan dari komunitas tersebut, termasuk topik yang sensitif atau tidak pantas
 
 ::: tip
 Untuk melaporkan pelanggaran chat, **Wajib** untuk memberikan foto atau screenshot yang lengkap dan jelas. Dan laporkan pemain yang melanggar ke [Discord Venity](https://venitymc.com/discord)
