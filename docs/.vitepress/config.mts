@@ -1,5 +1,4 @@
 import {defineConfig, LocaleConfig, UserConfig} from 'vitepress'
-import markdownItKatex from 'markdown-it-katex'
 
 const languages: LocaleConfig = {
   en: {
@@ -18,13 +17,11 @@ const baseCfg: UserConfig = {
   themeConfig: {
     editLink: {
       pattern: 'https://github.com/VenityNetwork/support-page/edit/master/docs/:path'
-    }
-  },
-  markdown: {
-    config: (md) => {
-      md.use(markdownItKatex);
     },
-  },
+    search: {
+      provider: 'local'
+    }
+  }
 };
 
 const perLangCfg: any = {
