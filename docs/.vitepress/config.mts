@@ -79,6 +79,13 @@ const sidebarItems: SidebarItemWrapper[] = [
           en: "Terms of Service"
         },
         link: "/terms-of-service"
+      },
+      {
+        text: {
+          id: "Kebijakan Privasi",
+          en: "Privacy Policy"
+        },
+        link: "/privacy-policy"
       }
     ]
   },

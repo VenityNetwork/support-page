@@ -10,6 +10,9 @@ hero:
       text: Ketentuan Layanan
       link: /id/terms-of-service
     - theme: alt
+      text: Kebijakan Privasi
+      link: /id/privacy-policy
+    - theme: alt
       text: Cara Vote Server
       link: /id/voting-for-the-server
 ---
