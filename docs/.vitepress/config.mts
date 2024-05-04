@@ -31,7 +31,7 @@ const perLangCfg: any = {
       next: "Selanjutnya"
     },
     outline: {
-      label: "Halaman iniz"
+      label: "Halaman ini"
     },
     lastUpdated: {
       text: "Diperbarui",
