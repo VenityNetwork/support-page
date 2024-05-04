@@ -5,7 +5,7 @@ Halaman ini menjelaskan bagaimana Venity Network ("VenityNetwork", "kami", "kita
 Kami sangat menghargai privasi Anda. Karena itu, kami mengembangkan kebijakan privasi untuk menginformasikan kepada Anda tentang bagaimana kami mengumpulkan, membuka, menyampaikan dan menggunakan data yang Anda kirimkan ke Venity Network. 
 
 ## 1. Pengumpulan Data
-Data dikumpulkan dari pemain dan pengguna server Minecraft kami. Data
+Data dikumpulkan dari pemain dan pengguna server Minecraft kami. Data disimpan di server kami yang berlokasi di Singapura.
 
 **Data yang kami butuhkan dan kumpulkan termasuk:**
 - Username Anda

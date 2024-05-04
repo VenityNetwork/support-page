@@ -5,7 +5,7 @@ This page explains how Venity Network ("VenityNetwork," "we," "us") collects dat
 We highly value your privacy. Therefore, we have developed a privacy policy to inform you about how we collect, disclose, convey, and use the data you submit to Venity Network.
 
 ## 1. Data Collection
-Data is collected from players and users of our Minecraft servers. Data
+Data is collected from players and users of our Minecraft servers. Data is stored in our database located in Singapore.
 
 **The data we need and collect include:**
 - Your Username
