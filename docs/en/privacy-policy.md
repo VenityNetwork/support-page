@@ -37,8 +37,9 @@ Data is collected from players and users of our Minecraft servers. Data is store
 - Your Discord account username and ID
 
 **Additional data required from staff/admin members:**
-- Full Name
+- Full name
 - Age
+- Birthdate
 
 ## 2. Data Usage
 

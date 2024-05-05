@@ -37,8 +37,9 @@ Data dikumpulkan dari pemain dan pengguna server Minecraft kami. Data disimpan d
 - Username dan ID akun Discord Anda
 
 **Data tambahan yang diperlukan dari anggota staff/admin:**
-- Nama Lengkap
+- Nama lengkap
 - Umur
+- Tanggal lahir
 
 ## 2. Penggunaan Data
 
