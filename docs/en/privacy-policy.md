@@ -15,7 +15,6 @@ Data is collected from players and users of our Minecraft servers. Data is store
 - Your XUID
   - A unique set of numbers to identify players generated from Xbox
 - Your DeviceID
-  - UUID sent by Minecraft
 - Your DeviceModel
   - The type of device you use including brand, model, and vendor of the device you use
 - In-game Data
