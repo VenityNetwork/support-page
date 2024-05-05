@@ -18,7 +18,6 @@ Through the Trainee role, players not only gain experience in server administrat
 
 ## Tips
 Before submitting an application, we recommend following some tips provided below:
-To ensure a successful application as a Trainee on the Venity Network server, here are some tips to follow:
 
 1. **Pay attention to text and grammar**: When filling out text fields in the application form, make sure to use correct grammar and maintain consistency in writing. Avoid grammar mistakes and ensure proper punctuation usage to enhance professionalism.
 

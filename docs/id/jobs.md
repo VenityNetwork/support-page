@@ -21,7 +21,6 @@ Melalui peran Trainee, pemain tidak hanya memperoleh pengalaman dalam administra
 
 ## Tips
 Sebelum mengirimkan lamaran, kami merekomendasikan Anda untuk mengikuti beberapa tips yang diberikan sebagai berikut:
-Untuk memastikan kesempatan lolos saat mendaftar sebagai Trainee di server Venity Network, ada beberapa tips yang dapat diikuti:
 
 1. **Perhatikan teks dan tata bahasa**: Saat mengisi kolom teks dalam formulir pendaftaran, pastikan untuk menggunakan tata bahasa yang benar dan menjaga konsistensi dalam penulisan. Hindari kesalahan tata bahasa dan pastikan penggunaan tanda baca yang tepat untuk meningkatkan kesan profesionalisme.
 
