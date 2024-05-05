@@ -20,6 +20,6 @@ hero:
       link: /en/guilds-system
     - theme: alt
       text: Jobs
-      link: /id/jobs
+      link: /en/jobs
 ---
 
