@@ -30,5 +30,8 @@ Buying/selling Minecraft/Xbox accounts is strictly prohibited on the Venity Netw
 ## 9. Accept punishment
 Accept the punishment given by us. If you believe you have not violated the rules, appeal at [venitymc.com/discord](https://venitymc.com/discord).
 
+## 10. Refund Policy
+All payments made on the Venity Network website store are non-refundable. If you attempt a refund or chargeback, we reserve the right to ban you from Venity Network servers.
+
 ## Conclusion
 Thank you for reading and understanding the Venity Network Service Terms. We believe that by adhering to the established rules, your Minecraft gaming experience on our server will be more enjoyable and safe for all players. We hope you can maintain a good attitude and respect fellow players while interacting on the server. If you have any questions or confusion about the mentioned rules, feel free to contact our support team at [venitymc.com/discord](https://venitymc.com/discord) (#support). Have fun and we hope you enjoy playing on Venity Network!
