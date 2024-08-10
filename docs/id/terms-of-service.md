@@ -30,6 +30,9 @@ Memperjualbelikan akun Minecraft/Xbox di Venity Network merupakan hal yang sanga
 ## 9. Terima hukuman
 Menerima hukuman yang diberikan oleh kami. Jika Anda merasa yakin tidak melanggar peraturan, ajukan banding di [venitymc.com/discord](https://venitymc.com/discord)
 
+## 10. Ketentuan Pengembalian Dana
+Segala pembayaran yang dilakukan di website store Venity Network tidak dapat dikembalikan (refund). Jika anda mencoba upaya pengembalian dana atau _chargeback_, kami berhak untuk memblokir anda dari server Venity Network.
+
 ## Kesimpulan
 Terima kasih telah membaca dan memahami Ketentuan Layanan Venity Network. Kami percaya bahwa dengan mematuhi aturan yang telah ditetapkan, pengalaman bermain Minecraft Anda di server kami akan lebih menyenangkan dan aman bagi semua pemain. Kami berharap Anda dapat menjaga sikap baik dan menghormati sesama pemain saat berinteraksi di server. Jika Anda memiliki pertanyaan atau kebingungan mengenai aturan yang telah disebutkan, jangan ragu untuk menghubungi tim dukungan kami di [venitymc.com/discord](https://venitymc.com/discord) (#support). Selamat bermain dan semoga Anda menikmati pengalaman bermain di Venity Network!
 
