@@ -11,7 +11,7 @@
 ## Posisi Sukarela
 
 ### Trainee
-Sebagai posisi entry level di Venity Network, Trainee memainkan peran penting dalam memelihara keamanan dan kenyamanan lingkungan permainan. Dengan persyaratan minimal usia 13 tahun, Trainee menjadi tempat bagi para pemain muda untuk mulai terlibat dalam pengelolaan komunitas. Kemampuan berkomunikasi dalam bahasa Inggris atau bahasa Indonesia menjadi kunci, karena Trainee harus mampu berinteraksi dengan pemain dari berbagai belahan dunia.
+Sebagai posisi entry level di Venity Network, Trainee memainkan peran penting dalam memelihara keamanan dan kenyamanan lingkungan permainan. Dengan persyaratan minimal usia 20 tahun, Trainee menjadi tempat bagi para pemain muda untuk mulai terlibat dalam pengelolaan komunitas. Kemampuan berkomunikasi dalam bahasa Inggris atau bahasa Indonesia menjadi kunci, karena Trainee harus mampu berinteraksi dengan pemain dari berbagai belahan dunia.
 
 Sebagai moderator in-game, Trainee memiliki tanggung jawab untuk menegakkan aturan dan memberikan sanksi kepada pemain yang melanggar. Ini tidak hanya menciptakan komunitas yang lebih aman, tetapi juga memastikan pengalaman bermain yang positif bagi semua pemain. Dalam hal ini, Trainee berfungsi sebagai jembatan antara aturan server dan pengalaman bermain yang menyenangkan.
 
