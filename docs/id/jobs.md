@@ -30,4 +30,5 @@ Sebelum mengirimkan lamaran, kami merekomendasikan Anda untuk mengikuti beberapa
 
 4. **Jujur dalam memberikan informasi**: Saat mengisi formulir pendaftaran, pastikan untuk memberikan informasi dan data yang sesuai dengan apa yang diminta. Jangan mencoba untuk berbohong saat memberikan informasi.
 
-Dengan mengikuti tips di atas, Anda dapat meningkatkan peluang Anda untuk lolos dalam proses pendaftaran Trainee di server Venity Network.
+Dengan mengikuti tips di atas, Anda dapat meningkatkan peluang Anda untuk lolos dalam proses pendaftaran Trainee  di server Venity Network.sama kamu bisa dapat map
+
