@@ -14,8 +14,7 @@ Data dikumpulkan dari pemain dan pengguna server Minecraft kami. Data disimpan d
   - Kumpulan angka unik yang mengidentifikasi perangkat yang Anda gunakan untuk bermain Minecraft
 - XUID Anda
   - Kumpulan angka unik untuk mengidentifikasi pemain yang dihasilkan dari Xbox
-- DeviceID Anda 
-  - UUID yang dikirimkan oleh Minecraft
+- DeviceID Anda
 - DeviceModel Anda 
   - Jenis perangkat yang Anda gunakan termasuk merk, tipe, dan vendor dari perangkat yang Anda gunakan
 - Data in-game
@@ -37,8 +36,9 @@ Data dikumpulkan dari pemain dan pengguna server Minecraft kami. Data disimpan d
 - Username dan ID akun Discord Anda
 
 **Data tambahan yang diperlukan dari anggota staff/admin:**
-- Nama Lengkap
+- Nama lengkap
 - Umur
+- Tanggal lahir
 
 ## 2. Penggunaan Data
 

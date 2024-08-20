@@ -18,5 +18,8 @@ hero:
     - theme: alt
       text: Guilds System
       link: /en/guilds-system
+    - theme: alt
+      text: Jobs
+      link: /en/jobs
 ---
 
