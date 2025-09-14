@@ -159,7 +159,7 @@ const navbarItems: NavItem[] = [
       id: "Discord",
       en: "Discord",
     },
-    link: "https://discord.gg/HTPg36hRU6"
+    link: "https://www.venitymc.com/discord"
   },
   {
     text: {
